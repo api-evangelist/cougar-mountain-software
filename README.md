@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cougar Mountain Software is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cougarmtn.com/
+Cougar Mountain Software provides on-premise accounting software solutions tailored for small businesses, nonprofits, and government entities. Their product suite includes Denali Web, Denali Fund, Denali Business, and Denali Payroll, offering comprehensive bookkeeping, fund accounting, payroll processing, and productivity tools. The company emphasizes fraud prevention, compliance, and flexible deployment options, serving a range of industries from nonprofits to township governments.
+
+**Areas:** Accounting · Software · Nonprofit · Small Business · Government · On-Premise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cougarmtn.com/)
+- [Documentation](https://dev.cougarmtn.com/)
+- [Blog](https://www.cougarmtn.com/blog/)
+- [Security](https://www.cougarmtn.com/blog/tag/security/)
+- [Terms of service](https://www.cougarmtn.com/terms-privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cougar-mountain-software/](https://apis.io/providers/cougar-mountain-software/).
